@@ -1,0 +1,7 @@
+{
+    "name": "b",
+    "version": "v1.0.0",
+    "dependencies": {
+        "chai": "4.3.4"
+    }
+}

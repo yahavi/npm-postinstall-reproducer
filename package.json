@@ -1,0 +1,7 @@
+{
+  "name": "a",
+  "version": "v1.0.0",
+  "scripts": {
+    "postinstall": "npm i --prefix subdir"
+  }
+}
